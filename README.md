@@ -8,7 +8,7 @@ A forma de utilizá-lo é:
 
 2) Rodar o arquivo "Importando os dados" personalizando o caminho onde as imagens foram salvas.
 
-3) Rodar a versão da rede desejada. Lembrando mais uma vez de garantir que o caminho para as imagens esteja correto. 
+3) Rodar a versão da rede desejada. Lembrando mais uma vez de garantir que o caminho para as imagens esteja correto( na classe CDdataset, na função getitem)
 
 OBS.1: O código não foi criado como estudo e, portanto, pode conter trechos que parecem desconexos mas que foram escritos em outro contexto. 
 
